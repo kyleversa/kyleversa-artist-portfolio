@@ -1,65 +1,85 @@
 # Kyle Versa Artist Portfolio
 
-A personal artist portfolio featuring installation, visual display, theatre, styling, digital design, and conceptual experience work by Kyle Versa.
-
-This site brings together projects from my background in stage design, visual merchandising, installation art, commercial display, styling, interactive media, and digital design. The work explores how space, story, image, material, humour, and technology can shape memorable experiences.
+A personal artist portfolio and creative archive featuring installation, commercial display, theatre design, styling, conceptual media, and digital experience work by Kyle Versa.
 
 ## Live Site
 
-View the live portfolio: https://kyleversa-artist-portfolio.vercel.app
+View the live portfolio: https://kyleversa.vercel.app/
 
 ## About the Portfolio
 
-This portfolio includes a selected archive of creative and visual work across physical, commercial, theatrical, and digital contexts.
+This site brings together selected work from my background in stage design, visual merchandising, installation art, commercial display, styling, interactive media, and digital design.
 
-Featured areas include:
+The portfolio is organized as a visual archive across four main areas:
 
-- Installation art
-- Retail window and in-store display
-- Theatre and stage design
-- Styling and visual direction
-- Interactive and conceptual media
-- Web and digital design
-- Spatial experience design
+* Installations
+* Commercial work
+* Theatre design
+* Conceptual work
 
-## Featured Work
+Across these projects, the common thread is designing visual and spatial experiences that connect story, material, colour, humour, atmosphere, and audience.
 
-### The Unreliable Narrator
+## Featured Areas
 
-A graduate installation project exploring memory, identity, persona, and unreliable storytelling through spatial design, found objects, theatrical triggers, and sensor-based interaction.
+### Installations
 
-### Urban Outfitters Installations
+Installation-based work exploring scale, texture, colour, found objects, theatrical atmosphere, and spatial storytelling.
 
-A selection of large-scale window and in-store installations created for Urban Outfitters, combining colour, humour, construction, styling, and visual storytelling.
+Featured projects include:
 
-### West Elm Pride Installation
+* Reading Is Fundamental
+* The Unreliable Narrator
+* Pixel Flower
+* digiFest
 
-A commissioned window installation created for West Elm, focused on visual impact, celebration, and public-facing display.
+### Commercial Work
 
-### Simons Styling and Visual Work
+Retail, styling, campaign, and display-based work created for commercial environments.
 
-Styling and visual presentation work developed in a commercial fashion and retail environment.
+Featured projects include:
 
-### Creative Technology and Interaction Concepts
+* Urban Outfitters
+* Simons
+* Bunz
 
-Conceptual and digital projects exploring immersive environments, geolocation-based experiences, AR/IoT ideas, spatial interfaces, and interactive storytelling.
+### Theatre Design
+
+Stage, model-making, sketching, and immersive theatre work shaped by my background in Design for the Stage.
+
+Featured projects include:
+
+* Immersive theatre
+* Model making
+* Sketches
+
+### Conceptual Work
+
+Speculative, digital, and experience-based projects exploring interaction, motion, wearable concepts, geolocation, and immersive environments.
+
+Featured projects include:
+
+* Style application video
+* Wearable concept
+* Get Lost
+* Hijack
 
 ## Project Theme
 
-Across the work, the common thread is bringing stories and environments to life.
+My work is rooted in the idea that spaces, objects, images, and digital systems can create memorable experiences.
 
-My background in Design for the Stage continues to shape how I approach creative work: through space, scale, timing, audience, material, atmosphere, and narrative. Whether the work exists in a store, on stage, online, in a window, or somewhere more experimental, the goal is to create something memorable, expressive, and full of life.
+Whether the work exists in a store, on stage, online, in a window, or as a conceptual proposal, I am interested in how visual design can bring stories to life and make overlooked details feel vivid, playful, and meaningful.
 
 ## Built With
 
-- Cursor
-- React / Next.js
-- Tailwind CSS
-- Vercel
+* Cursor
+* Next.js
+* React
+* Tailwind CSS
+* Vercel
 
 ## Status
 
-This portfolio is currently being rebuilt and prepared for deployment.
+Live and deployed on Vercel.
 
 ## Copyright
 
