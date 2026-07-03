@@ -17,8 +17,8 @@ export const homeSections: HomeSection[] = [
     id: "stories-and-narratives",
     layout: "triple",
     intro: [
-      "I find it hard to choose a word or title to describe me short of 'designer' or 'maker'. But I do know that I live to make stories and narratives come to life in my work. Whether it be, on the stage or in a store, on film or online, outside or just simply 'out there', it is my strength to bring beauty and life to things that may be so commonly be overlooked.",
-      "My studies were in Design for the Stage and it is the underlying techniques with which I execute all the work that I do.",
+      "I find it hard to choose one word to describe myself, short of designer or maker. What I do know is that I love bringing stories and environments to life. Whether on stage, in a store, on film, online, outside, or simply somewhere unexpected, my strength is creating beauty, humour, and atmosphere around things that are often overlooked.",
+      "My studies were in Design for the Stage, and those techniques continue to shape the way I approach all of my work.",
     ],
     images: [
       {
@@ -85,7 +85,7 @@ export const homeSections: HomeSection[] = [
       },
     ],
     outro: [
-      "My constructions and designs come with a lot of heart and life...full of colour and story...humour and impact...and represent me as an artist and individual.",
+      "My constructions and designs are full of heart, colour, story, humour, and impact. They represent me as both an artist and an individual.",
     ],
   },
 ];
