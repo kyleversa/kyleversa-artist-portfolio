@@ -38,7 +38,7 @@ export default function ContactPage() {
                   href={`mailto:${siteConfig.email}`}
                   className="transition-colors hover:text-accent"
                 >
-                  {siteConfig.email}
+                  {siteConfig.name}
                 </Link>
               </p>
               <p>
