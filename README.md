@@ -1,53 +1,66 @@
-# Kyle Versa Portfolio
+# Kyle Versa Artist Portfolio
 
-A minimal static portfolio site built with Next.js and Tailwind CSS, designed for deployment on Vercel.
+A personal artist portfolio featuring installation, visual display, theatre, styling, digital design, and conceptual experience work by Kyle Versa.
 
-## Pages
+This site brings together projects from my background in stage design, visual merchandising, installation art, commercial display, styling, interactive media, and digital design. The work explores how space, story, image, material, humour, and technology can shape memorable experiences.
 
-- `/` — Scrolling home page with intro sections and project links
-- `/projects` — Full project index by category
-- `/projects/[slug]` — Individual project pages
-- `/contact` — About, email, LinkedIn, and contact form
+## Live Site
 
-## Local development
+Coming soon.
 
-```bash
-npm install
-npm run dev
-```
+## About the Portfolio
 
-Open [http://localhost:3000](http://localhost:3000).
+This portfolio includes a selected archive of creative and visual work across physical, commercial, theatrical, and digital contexts.
 
-## Updating content
+Featured areas include:
 
-Most site content lives in two files:
+- Installation art
+- Retail window and in-store display
+- Theatre and stage design
+- Styling and visual direction
+- Interactive and conceptual media
+- Web and digital design
+- Spatial experience design
 
-- `src/content/site.ts` — name, email, LinkedIn, about text
-- `src/content/home-sections.ts` — home page scroll sections, copy, and image paths
-- `src/content/projects.ts` — project titles, categories, image paths, YouTube links
+## Featured Work
 
-### Adding a project later
+### The Unreliable Narrator
 
-1. Drop images into `public/images/projects/your-project-slug/`
-2. Add a new entry to the `projects` array in `src/content/projects.ts`
-3. Rebuild or redeploy
+A graduate installation project exploring memory, identity, persona, and unreliable storytelling through spatial design, found objects, theatrical triggers, and sensor-based interaction.
 
-### Replacing placeholder images
+### Urban Outfitters Installations
 
-Images were extracted from your Format PDF exports in `Downloads/PORTFOLIO PDF/Portfolio Archive/website scans/`. To refresh them, replace files in `public/images/` using the same filenames, or drop new PDFs and ask Cursor to re-extract.
+A selection of large-scale window and in-store installations created for Urban Outfitters, combining colour, humour, construction, styling, and visual storytelling.
 
-Home page images live in `public/images/home/sections/`.
+### West Elm Pride Installation
 
-### Unreliable Narrator video
+A commissioned window installation created for West Elm, focused on visual impact, celebration, and public-facing display.
 
-Your trailer file (`Unreliable Narrator trailer.mov`) is too large to host directly on Vercel. Upload it to YouTube or Vimeo, then add the link to the `videos` array for `the-unreliable-narrator` in `src/content/projects.ts`.
+### Simons Styling and Visual Work
 
-## Deploy to Vercel
+Styling and visual presentation work developed in a commercial fashion and retail environment.
 
-1. Push this repo to GitHub
-2. Import the repo in [Vercel](https://vercel.com/new)
-3. Deploy with the default Next.js settings
+### Creative Technology and Interaction Concepts
 
-## LinkedIn URL
+Conceptual and digital projects exploring immersive environments, geolocation-based experiences, AR/IoT ideas, spatial interfaces, and interactive storytelling.
 
-Update the placeholder LinkedIn URL in `src/content/site.ts` if needed.
+## Project Theme
+
+Across the work, the common thread is bringing stories and environments to life.
+
+My background in Design for the Stage continues to shape how I approach creative work: through space, scale, timing, audience, material, atmosphere, and narrative. Whether the work exists in a store, on stage, online, in a window, or somewhere more experimental, the goal is to create something memorable, expressive, and full of life.
+
+## Built With
+
+- Cursor
+- React / Next.js
+- Tailwind CSS
+- Vercel
+
+## Status
+
+This portfolio is currently being rebuilt and prepared for deployment.
+
+## Copyright
+
+All artwork, images, writing, project documentation, and creative work are © Kyle Versa unless otherwise noted. Please do not reuse images or project materials without permission.
