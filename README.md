@@ -6,7 +6,7 @@ This site brings together projects from my background in stage design, visual me
 
 ## Live Site
 
-Coming soon.
+View the live portfolio: https://kyleversa-artist-portfolio.vercel.app
 
 ## About the Portfolio
 
